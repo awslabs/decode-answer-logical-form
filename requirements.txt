@@ -1,0 +1,12 @@
+torch
+jsonlines
+SPARQLWrapper
+pyserini
+faiss-cpu
+sentencepiece
+tqdm
+hydra
+spacy
+wandb
+omegaconf
+networkx
